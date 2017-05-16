@@ -23,4 +23,20 @@ Project configuration
 Installation Instructions
 ========================
 
-
+At first you have to create table 
+~~~
+cms_vds
+~~~
+Import file 
+~~~
+cms_vds.sql
+~~~
+If you want input to admin panel you have to enter url
+~~~
+http://localhost/CMSForFirm/application/login.php
+~~~
+Login and Password to account
+~~~
+Login: admin
+Password: admin
+~~~
