@@ -10,7 +10,7 @@ Core features:
 - Possibility of adding PDF files
 - Event form in which you can save and delete an event
 - Editing content
-- Table with waiting customers (Confirm contact)
+
 
 
 Project configuration
