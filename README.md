@@ -3,8 +3,8 @@
 Core features:
 ========================
 
-- Visits counter
-- Real counter visits, which uses cookies
+- Visitor counter
+- Real visitor counter, which uses cookies
 - Charts showing the number of visits and real visits
 - Possibility of adding photos
 - Possibility of adding PDF files
