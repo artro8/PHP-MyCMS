@@ -47,3 +47,7 @@ Photos
 Home
 
 ![home](https://cloud.githubusercontent.com/assets/17146309/26151794/978c94ba-3b04-11e7-8d01-7fd8802c9772.png)
+
+Admin Panel
+
+![admin](https://cloud.githubusercontent.com/assets/17146309/26151936/32463114-3b05-11e7-83ad-819441a59fb5.png)
