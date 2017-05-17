@@ -40,3 +40,10 @@ Login and Password to account
 Login: admin
 Password: admin
 ~~~
+
+Photos
+========================
+
+Home
+
+![home](https://cloud.githubusercontent.com/assets/17146309/26151794/978c94ba-3b04-11e7-8d01-7fd8802c9772.png)
