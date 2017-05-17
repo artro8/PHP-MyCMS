@@ -44,9 +44,9 @@ Password: admin
 Photos
 ========================
 
-Home
+Home Page
 
-![home](https://cloud.githubusercontent.com/assets/17146309/26151794/978c94ba-3b04-11e7-8d01-7fd8802c9772.png)
+![home](https://cloud.githubusercontent.com/assets/17146309/26152538/9bc6b576-3b07-11e7-862e-fed7fab65145.png)
 
 Admin Panel
 
